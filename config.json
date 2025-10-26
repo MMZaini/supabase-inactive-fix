@@ -2,7 +2,7 @@
   {
     "name": "IDT React",
     "supabase_url": "https://nkmzfqmogyqbqbbdyzyn.supabase.co",
-    "supabase_key_env": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5rbXpmcW1vZ3lxYnFiYmR5enluIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjEzMzcwMzAsImV4cCI6MjA3NjkxMzAzMH0.iL7kB8mBX5YX8DcKw1wW3wjYo9LeMbtArx6a0cDQpZI",
+    "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "keep-alive"
   }
 ]
